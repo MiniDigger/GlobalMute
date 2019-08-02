@@ -1,0 +1,10 @@
+me\minidigger\globalmute\model\Punishment.class
+me\minidigger\globalmute\model\PunishmentReason.class
+me\minidigger\globalmute\model\Message.class
+me\minidigger\globalmute\model\PunishmentType.class
+me\minidigger\globalmute\model\Network.class
+me\minidigger\globalmute\model\Player.class
+me\minidigger\globalmute\model\User.class
+me\minidigger\globalmute\model\Team.class
+me\minidigger\globalmute\model\Level.class
+me\minidigger\globalmute\model\Server.class

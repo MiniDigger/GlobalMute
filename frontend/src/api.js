@@ -12,4 +12,6 @@ export default {
     username,
     password,
   }).then(response => completed(response.data)).catch(error => errorHandler(error)),
+  loginWithToken: (token, completed, errorHandler) => instance.get(`login/${token}`)
+    .then(response => completed(response.data)).catch(error => errorHandler(error)),
 };
